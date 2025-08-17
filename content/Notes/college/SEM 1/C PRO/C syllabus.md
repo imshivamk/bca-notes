@@ -1,0 +1,103 @@
+- [x] Concept of Problem
+- [x] Procedure and Algorithm
+- [x] Algorithm Representation
+	- [ ] Pseudo - [ ]Code
+	- [ ] Flow - [ ] Charts
+- [x] Tracing of Algorithms
+	- [ ] Swapping
+	- [x] Counting
+	- [x] Finding the Sum
+	- [ ] Product
+	- [ ] maximum & minimum
+
+- [x] History
+- [ ] Structure of C Programming
+- [ ] Function as building blocks
+
+- [ ] Language Fundamentals
+- [ ] Character set
+- [ ] C Tokens
+- [x] Keywords
+- [ ] Identifiers
+- [x] Variables
+- [x] Constant
+- [x] Data Types
+- [ ] Comments
+
+- [ ] Types of operators
+- [ ] Operator Precedence and Associativity Expression
+- [ ] Statement
+	- [ ] types of statements
+- [ ] Built in Operators and functions
+- [ ] Console based I/O
+- [ ] related built in I/O function
+	- [x] printf()
+	- [x] scanf()
+	- [x] getch()
+	- [x] getchar()
+	- [x] putchar()
+- [ ] Concept of header files
+- [ ] Preprocessor directives 
+	- [ ] #include
+	- [ ]  #define
+
+- [ ] Basic Control Structures
+- [x] decision making structures
+	- [x] if statement
+	- [x] if- [ ]else statement
+	- [x] Nested if- [ ]else statement
+	- [x] switch statement
+- [x]  Loop Control structures
+	- [ ] while loop
+	- [ ] do- [ ]while loop
+	- [ ] for loop
+	- [ ] Nested for loop
+- [x] Other statements
+	- [ ] break keyword
+	- [ ] continue keyword
+	- [ ] goto keyword
+	- [ ] exit function
+
+- [x] Introduction
+- [x] Purpose of function
+- [x] Function declaration
+- [x] Function prototype
+- [ ] Function definition
+- [ ] Function call
+- [ ] return nstatement
+- [ ] Function parameters
+- [ ] Typesoffunctions
+- [ ] Callbyvalue
+- [ ] Storageclasses
+- [ ] Recursion
+- [ ] Examples on recursive function
+
+
+- [x] Introduction to one dimensional Array
+	- [x] Definition
+	- [x] Declaration
+	- [x] Initialization
+- [x] Accessing and displaying array elements
+- [x] Arrays and functions
+- [x] two dimensional Array
+	- [ ] Definition
+	- [ ] Declaration
+	- [ ] Initialization
+	- [ ] Accessing and d
+
+
+
+- [ ] Introductions to Strings
+- [ ] Definition, Declaration, Initialization
+- [ ] Input, output statements for strings
+- [ ] Standard String library functions with example
+- [ ] 
+- [ ] Structure – User defined datatypes, Concept of structure
+- [ ] Union
+- [ ] Member access operator(.)
+- [x] Introduction to pointer, Definition, Declaring and Initializing pointer variable
+- [x] Indirection operator
+- [x] address of operator
+- [x] Accessing variable through its pointer
+- [ ] Pointer arithmetic
+- [ ] Dynamic memory allocation

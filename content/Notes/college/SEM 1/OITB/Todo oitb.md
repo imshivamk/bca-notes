@@ -1,0 +1,7 @@
+- [ ] Business
+- [ ] evolution
+- [ ] scope
+- [ ] trade
+- [ ] commerce
+- [ ] objective
+- [ ] 
