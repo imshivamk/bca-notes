@@ -6,7 +6,7 @@ dg-publish: true
 
 [[obsidian/my-notes/Notes/college/SEM 3/Start-up-management/UNIT 1]]
 
-[[Notes/college/SEM 3/Start-up-management/UNIT 2]]
+[[content/Notes/SEM 3/Start-up-management/UNIT 2]]
 
 [[obsidian/my-notes/Notes/college/SEM 3/Start-up-management/UNIT 3]]
 

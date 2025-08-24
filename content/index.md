@@ -1,7 +1,4 @@
-test
-test
-test
-
+t
 [[SEM 1]]
 
 [[SEM 2]]
