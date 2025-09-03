@@ -58,3 +58,4 @@ str(ScoreMCA)
 summary(ScoreMCA)
 ```
 
+

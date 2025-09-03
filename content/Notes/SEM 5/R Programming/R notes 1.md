@@ -29,6 +29,7 @@ x <- 5
 length(x)  # Output: 1
 ```
 
+## Declaring vectors
 
 > x = c(1,2,3,4,5,6,7,8,9,10);
 > y = c(8,0,4,6,2,10,20,14,8,-9);
@@ -83,33 +84,49 @@ length(x)  # Output: 1
 
 ## operations on data 
 
+### metadata
+
 > str(patient_data)
 
 
 ![[Pasted image 20250805150358.png]]
 
-### metadata
+### accessing individual columns
 
 >patient_data$"weight"
 
 ![[Pasted image 20250805151705.png]]
 
+### find first n or last n elements
 > head(patient_data) // first 6 rows
 > tail(patient_data) // last 6 rows
-> patine
 
 
-## random access to data
 
+### random access to data
+
+```r
+student_data[1:3, 1:4]
+# here , first parameter is the range of rows and 2nd parameter is the range of columns
+```
+
+when only one parameter is passed, then its for the columns
 >patient_data[2]
 
+
+
 ![[Pasted image 20250805150833.png]]
+
+here, its is rows range and column
 >patient_data[1:3, 2]
+
+
 
 ![[Pasted image 20250805150723.png]]
 
-
+you can specify multiple columns using this
 >patient_Data[, c(3,5)]
+
 
 ![[Pasted image 20250805151111.png]]
 >patient_data[c(1,4), c(1,3,5)]
@@ -123,6 +140,8 @@ length(x)  # Output: 1
 ## using conditions
 
 ### find the average weight of smokers in the given dataset
-> smoking_patients = patients_data[patients_data$"smoking" == TRUE]
+```r
+smoking_patients = patients_data[patients_data$"smoking" == TRUE , ]
+```
 
 ![[Pasted image 20250805152809.png]]
