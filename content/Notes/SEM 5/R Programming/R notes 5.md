@@ -21,14 +21,15 @@
 summary(students)
 ```
 
->     hours            score
+```r
+     hours            score
  Min.   : 2.000   Min.   :50
  1st Qu.: 4.000   1st Qu.:60
  Median : 6.000   Median :70
  Mean   : 6.571   Mean   :70
  3rd Qu.: 9.000   3rd Qu.:80
  Max.   :12.000   Max.   :90
-
+```
 
 3. To get first n records / last n records
 ```r
@@ -44,9 +45,12 @@ tail(students, 3)
 students[c(3,5), c(1,2)]
 ```
 
->  hours score
+```r
+ 	hours score
  3     5    65
  5     8    75
+```
+
 
 
 5. plotting graphs
@@ -58,13 +62,13 @@ pch=20)
 ```
 
 
-![](../../../../attachments/R%20notes%205-1756801753068.webp)
+![](R%20notes%205-1756801753068.webp)
 
 ```r
 barplot(students$hours, students$score, main="hours studied vs exam score", xlab="hours studied", ylab="exam score")
 ```
 
-![](../../../../attachments/R%20notes%205-1756802369072.webp)
+![](R%20notes%205-1756802369072.webp)
 
 ## Exercise
 
@@ -115,7 +119,7 @@ a. Math vs Physics
 plot(student_marks$Maths, student_marks$Physics, main="Maths vs Physics", xlab="maths marks", ylab="physics marks")
 ```
 
-![](../../../../attachments/R%20notes%205-1756802956163.webp)
+![](R%20notes%205-1756802956163.webp)
 
 ```r
 cor(student_marks$Maths, student_marks$Physics)
@@ -132,7 +136,7 @@ b. Math vs Arts
 plot(student_marks$Maths, student_marks$Arts, main="Maths vs Arts", xlab="maths marks", ylab="Arts marks")
 ```
 
-![](../../../../attachments/R%20notes%205-1756803032333.webp)
+![](R%20notes%205-1756803032333.webp)
 
 ```r
 cor(student_marks$Maths, student_marks$Arts)
@@ -149,7 +153,7 @@ c. Math vs Arts
 plot(student_marks$Maths, student_marks$History, main="Maths vs History")
 ```
 
-![](../../../../attachments/R%20notes%205-1756803073964.webp)
+![](R%20notes%205-1756803073964.webp)
 
 ```r
 cor(student_marks$Maths, student_marks$History)
