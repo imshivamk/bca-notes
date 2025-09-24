@@ -1,0 +1,3 @@
+1. Job portal with a payment integration and a company / employer login managing multiple recruiters ( team members) of same company . I have seen many copy paste  job portal project . However none had a payment integration and a company's multiple team members ( HR ) management feature .
+2. A web application or android/ios app that posts content across multiple social medias. link all social medias and then post across all of them.
+3. 

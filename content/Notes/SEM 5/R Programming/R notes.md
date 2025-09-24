@@ -1,6 +1,9 @@
 ---
 dg-publish: false
 ---
+[[unit 1 - intro to R]]
+[[unit 2 - graphical analysis and advanced R]]
+
 [[R notes 1]]
 
 [[R notes 2]]
