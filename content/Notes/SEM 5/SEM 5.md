@@ -5,4 +5,4 @@ dg-publish: true
 [[C sharp]]
 [[ED]]
 [[python]]
-
+[[IT Aptitude MCQs]]
