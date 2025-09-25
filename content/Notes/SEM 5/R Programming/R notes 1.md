@@ -65,19 +65,51 @@ length(x)  # Output: 1
 
 ![[Pasted image 20250805152102.png]]
 
-![[Pasted image 20250805152030.png]]
+![[Pasted image 20250805152030.png|519x519]]
 
-## read exccel file
+## write to a text file
+When you run your script with `Rscript`, redirect its output to a file:
 
->install.packages("readxl")
->find.package("readxl")
+`Rscript myscript.R > output.txt`
 
+- `>` overwrites the file every time.
+    
+- Use `>>` to append instead:
+    
+    `Rscript myscript.R >> output.txt`
+OR
+```r
+sink("output.txt")     # Start capturing console
+.
+.
+.
+sink()
+```
 
->library(readxl)
+## read csv
+```r
+data <- read.csv("students.csv")
+```
 
->data_file = file.choose()
->patient_data = read_xlsx(data_file)
->patient_data
+```r
+setwd("C:/Users/YourName/Documents")
+data <- read.csv("students.csv")
+```
+
+```r
+data <- read.csv(file.choose())
+head(data)
+```
+## read excel file
+
+```r
+install.packages("readxl")
+find.package("readxl")
+library(readxl)
+data_file = file.choose()
+patient_data = read_xlsx(data_file)
+patient_data
+```
 
 
 ![[Pasted image 20250805151401.png]]

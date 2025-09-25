@@ -9,4 +9,4 @@ tags:
 
 [[OITB INDEX]]
 
-[[MCQs]]
+[[content/Notes/SEM 1/MCQs/MCQs]]
