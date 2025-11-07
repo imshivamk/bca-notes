@@ -72,3 +72,34 @@
 	2. Thread Class, Creating and Managing Threads
 	3. Threads Priority, Thread Synchronization
 	4. Suspending, Resuming and Terminating threads
+
+# 6 Win-forms
+
+- [ ] Introduction
+- [ ] Controls: Common control Group
+- [ ] Data, control Group
+- [ ] Dialog control Group
+- [ ] Container control Group
+- [ ] Menus and Context Menus
+	- [ ] Menu Strip
+	- [ ] Toolbar Strip.
+- [ ] SDI and MDI Applications
+- [ ] Developing Custom
+- [ ] Composite and Extended Controls
+- [ ] WPF
+- [ ] Developing WPF application
+
+# 7 ADO.NET
+
+- [ ] Evolution of ADO.NET
+- [ ] Connected and Disconnect Classes
+- [ ] Establishing Connection with Database
+- [ ] Executing simple Insert, Update and Delete ,
+- [ ] Statements
+- [ ] DataReader and DataAdapter
+- [ ] What is Dataset?
+	- [ ] Advantages of DataSet
+- [ ] Working with DataRelation 
+- [ ] Prepared Statements
+- [ ] Stored Procedures
+- [ ] Master Detail Form.
