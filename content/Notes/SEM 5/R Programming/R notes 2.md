@@ -33,6 +33,8 @@ rscript sine.r > sineData.txt
 
 > in excel import from text/csv
 
+
+
 ![[Pasted image 20250807170432.png]]
 
 ![[Pasted image 20250807150501.png]]
@@ -79,9 +81,11 @@ plot(read.xlsx(data_file));
 
 ## write to an excel file
 
-> install.packages("writexl")
-
+> 
 ```r
+install.packages("writexl")
+library(writexl)
 newFilePath = "D:/college/R/newDataFile.xlsx"
 write_xlsx(sineData, newFilePath);
 ```
+

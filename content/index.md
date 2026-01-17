@@ -8,6 +8,7 @@
 
 [[SEM 5]]
 
+[[Maths]]
 
 <a href="https://github.com/imshivamk/C-programs-sem-I">C programs</a>
 

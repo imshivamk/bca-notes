@@ -261,7 +261,3 @@ summary(anova_result)
 |Correlation|`cor()`|`cor(Hours, Marks)`|Strength of relation|
 |ANOVA|`aov()`|`aov(Marks~Plan)`|Compare group means|
 |Summarizing|`summary()`|`summary(students)`|Descriptive stats|
-
----
-
-Do you want me to now **prepare a set of 10-mark exam questions with solutions** (e.g., “Draw a boxplot of marks by gender and interpret”) based on this dummy dataset, so you can practice in exam style?

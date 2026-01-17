@@ -1,4 +1,4 @@
-
+	
 ![[Pasted image 20250814142050.png]]
 
 - total number of records - 49
@@ -59,3 +59,9 @@ summary(ScoreMCA)
 ```
 
 
+```r
+install.packages("writexl")
+library(writexl)
+data_file = file.choose()
+
+```

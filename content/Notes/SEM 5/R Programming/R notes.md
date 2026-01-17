@@ -14,3 +14,4 @@ dg-publish: false
 
 [[R notes 5]]
 
+[[unit 3 - ANOVA, statistical models, data analysis in R]]

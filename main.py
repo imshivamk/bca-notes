@@ -1,0 +1,5 @@
+print("=" * 80)
+print("No main.py was found so one was created!")
+print("Add your own code to this file: /run/user/1000/doc/14b95a5b/quartz/main.py")
+print("=" * 80)
+input("Key enter to close.")
