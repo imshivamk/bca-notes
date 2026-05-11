@@ -9,3 +9,6 @@
 [[5. Classification and Prediction]]
 
 [[6. Clustering]]
+
+[[previous year question paper]]
+
