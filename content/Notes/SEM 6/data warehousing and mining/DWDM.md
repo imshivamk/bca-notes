@@ -4,7 +4,7 @@
 
 [[3. Introduction to Data Mining]]
 
-[[4. Mining Frequent Items and Associations]]
+[[4. Association rule mining - frequent items]]
 
 [[5. Classification and Prediction]]
 
